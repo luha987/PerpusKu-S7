@@ -21,7 +21,7 @@ class MyApp extends StatelessWidget {
       create: (context) => BookData(),
       child: MaterialApp(
         debugShowCheckedModeBanner: false,
-        home: const SignInScreen(),
+        // home: const SignInScreen(),
         routes: {
           HomeScreen.routeName: (context) => const HomeScreen(),
           SignInScreen.routeName: (context) => const SignInScreen(),

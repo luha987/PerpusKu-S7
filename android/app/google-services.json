@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "154520687325",
+    "firebase_url": "https://uas-mobile-s7-default-rtdb.firebaseio.com",
+    "project_id": "uas-mobile-s7",
+    "storage_bucket": "uas-mobile-s7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:154520687325:android:e03d557682a46776ef0134",
+        "android_client_info": {
+          "package_name": "com.example.perpustakaan"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJZQT-nEeHGcwLPhU5RErYTHuRB0_RK1M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:154520687325:android:f821111b8823015aef0134",
+        "android_client_info": {
+          "package_name": "com.example.tugas_uas"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJZQT-nEeHGcwLPhU5RErYTHuRB0_RK1M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

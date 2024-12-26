@@ -7,16 +7,16 @@ Aplikasi Perpustakaan Sederhana dengan menggunakan database firestore dan real-t
 
 # Foto
 Halaman Login<br> 
-![assets](./image/1.jpg)
+![assets](./image/1.jpg)<br>
 
 
-Halaman Detail<br>
-![assets](./image/2.jpg)
+Halaman Pendaftaran<br>
+![assets](./image/2.jpg)<br>
 
 
-Halaman Pesanan<br>
-![assets](./image/3.jpg)
+Halaman Depan<br>
+![assets](./image/3.jpg)<br>
 
 
-Halaman Transaksi<br>
-![assets](./image/4.jpg)
+Halaman Buku<br>
+![assets](./image/4.jpg)<br>
